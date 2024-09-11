@@ -49,7 +49,7 @@ The results of applying K-means with `K = 10` and `K = 20` show the following:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aliz-f/k-means-image-compression.git
+    git clone https://github.com/Aliz-f/ImageCompression-with-KMeans.git
     ```
 
 2. Install required libraries (if applicable):
